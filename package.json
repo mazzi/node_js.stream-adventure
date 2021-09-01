@@ -16,7 +16,7 @@
     "request": "^2.88.0",
     "split": "^1.0.0",
     "stream-combiner": "^0.2.2",
-    "tar": "^4.4.10",
+    "tar": "^4.4.18",
     "through": "^2.3.8",
     "through2": "^2.0.5",
     "trumpet": "^1.7.2",
